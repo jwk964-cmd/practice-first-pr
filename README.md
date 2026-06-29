@@ -14,4 +14,4 @@ This repo exists so you can practice the flow of: clone, branch, edit, commit, p
 
 ## Contributing
 
-Feel free ot open a pull request with any small improvement.
+Feel free to open a pull request with any small improvement.
